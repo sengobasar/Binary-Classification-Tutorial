@@ -1,6 +1,6 @@
 # Binary Classification Tutorial
 
-This repository contains a tutorial notebook for binary classification using [your framework/library].
+This repository contains a tutorial notebook for binary classification.
 
 ## Contents
 - Binary-Classification-Tutorial.ipynb
